@@ -31,6 +31,7 @@ Boosting:
 
 References:
 * Scikit-learn documentation
+* [Darraghdog's code](https://github.com/darraghdog/CS7641-Assignment1/blob/master/OMSCS-CS7641-Assignment1-Part1.ipynb)
 
 
 
