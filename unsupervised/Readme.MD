@@ -1,8 +1,9 @@
-General Instruction:
+General Instructions:
 1. Uncomment code based on the dataset for which the code should run
 2. Some graphs were made in Excel/Numbers and exported to CSV files, some are made in the code using Matplotlib
 
 
+Running Files
 1. Run em.py for EM
 2. Run kmeans.py for K-means
 3. Run neural_pca.py for running PCA before Neural Networks
